@@ -1,1 +1,1 @@
-Algorithm Solutions from Coding Dojo Curriculum
+Over 120 hours worth of daily algos for Coding Dojo
